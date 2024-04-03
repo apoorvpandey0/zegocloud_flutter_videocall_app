@@ -8,4 +8,4 @@ To follow along with how this project was created watch the video below
 Click on the banner below
 [![Watch the video](https://img.youtube.com/vi/OlDtQBdZf2w/maxresdefault.jpg)](https://www.youtube.com/watch?v=OlDtQBdZf2w)
 
-Or click the link here: https://www.youtube.com/watch?v=kn9Qv2rsxGA
+Or click the link here: https://www.youtube.com/watch?v=OlDtQBdZf2w
