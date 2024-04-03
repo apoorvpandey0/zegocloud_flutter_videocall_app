@@ -1,0 +1,3 @@
+const APP_ID = <YOUR_ID_HERE>;
+const APP_SIGN = <YOUR_SIGN_HERE>;
+
