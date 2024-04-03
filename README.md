@@ -1,16 +1,11 @@
-# flutter_vc_zegocloud
+# zegocloud_flutter_videocall_app
 
-A new Flutter project.
+![image](https://github.com/apoorvpandey0/zegocloud_flutter_videocall_app/assets/32810722/fec5039a-bf36-442d-830f-063d1bf3d980)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+To follow along with how this project was created watch the video below
 
-A few resources to get you started if this is your first Flutter project:
+Click on the banner below
+[![Watch the video](https://img.youtube.com/vi/OlDtQBdZf2w/maxresdefault.jpg)](https://www.youtube.com/watch?v=OlDtQBdZf2w)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Or click the link here: https://www.youtube.com/watch?v=kn9Qv2rsxGA
